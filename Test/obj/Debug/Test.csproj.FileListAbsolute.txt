@@ -1,0 +1,11 @@
+C:\Users\DZKD_B705\Desktop\SystemInfo\bin\Test.exe
+C:\Users\DZKD_B705\Desktop\SystemInfo\bin\Test.pdb
+C:\Users\DZKD_B705\Desktop\SystemInfo\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\DZKD_B705\Desktop\SystemInfo\Test\obj\Debug\Test.frmProcess.resources
+C:\Users\DZKD_B705\Desktop\SystemInfo\Test\obj\Debug\Test.LineChart.resources
+C:\Users\DZKD_B705\Desktop\SystemInfo\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\DZKD_B705\Desktop\SystemInfo\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\DZKD_B705\Desktop\SystemInfo\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\DZKD_B705\Desktop\SystemInfo\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\DZKD_B705\Desktop\SystemInfo\Test\obj\Debug\Test.exe
+C:\Users\DZKD_B705\Desktop\SystemInfo\Test\obj\Debug\Test.pdb

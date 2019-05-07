@@ -1,0 +1,6 @@
+C:\Users\DZKD_B705\Desktop\SystemInfo\bin\Lemony.SystemInfo.dll
+C:\Users\DZKD_B705\Desktop\SystemInfo\bin\Lemony.SystemInfo.pdb
+C:\Users\DZKD_B705\Desktop\SystemInfo\SystemInfo\obj\Debug\SystemInfo.csprojAssemblyReference.cache
+C:\Users\DZKD_B705\Desktop\SystemInfo\SystemInfo\obj\Debug\SystemInfo.csproj.CoreCompileInputs.cache
+C:\Users\DZKD_B705\Desktop\SystemInfo\SystemInfo\obj\Debug\Lemony.SystemInfo.dll
+C:\Users\DZKD_B705\Desktop\SystemInfo\SystemInfo\obj\Debug\Lemony.SystemInfo.pdb
